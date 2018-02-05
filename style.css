@@ -35,7 +35,7 @@ body {
 .header-input {
 	color: #ead7d7;
 	font: inherit;
-	padding-left: 4%;
+	padding-left: 25px;
 	border: 1px solid transparent;
 	outline: none;
 }
